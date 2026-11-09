@@ -1,0 +1,12 @@
+/Backup/
+/Simple/
+/dist/
+/Build/Smoke/
+/Preview-UI.ps1
+/Cleaner.exe
+/Assets/*
+!/Assets/Cleaner.ico
+!/Assets/Cleaner.png
+*.log
+*.tmp
+settings.json
