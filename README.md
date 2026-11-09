@@ -60,4 +60,6 @@ The suite exercises deletion in disposable test folders, including locked files,
 
 See [CONTRIBUTING.md](CONTRIBUTING.md). Please include Windows and browser versions when reporting issues, and remove personal paths from logs and screenshots. Suggestions for accessibility, translations and better diagnostics are welcome.
 
-No open-source license has been granted yet. Public source availability does not grant redistribution or modification rights beyond those provided by GitHub's terms and applicable law.
+## License
+
+Released under the [MIT License](LICENSE).
