@@ -26,14 +26,14 @@ Cleaner shows you every item first — you decide, then it cleans.
 
 ## Why people pick Cleaner
 
-| | |
-| --- | --- |
-| 👀&nbsp;**Preview&nbsp;first** | Analyze shows what each category would remove and how much space it frees. Nothing is deleted until you confirm. |
-| 🎯&nbsp;**Only&nbsp;known&nbsp;locations** | Cleaner looks inside a fixed list of cache and temporary folders. It never scans your whole drive for things to remove. |
-| 🔒&nbsp;**Your&nbsp;data&nbsp;stays** | Desktop, Documents, Downloads, Pictures and OneDrive are never touched. Neither are browser passwords, cookies, bookmarks or extensions. |
-| 🕶️&nbsp;**Privacy&nbsp;on&nbsp;your&nbsp;terms** | Browsing-history cleanup is a separate, opt-in category that is never preselected. |
-| 📦&nbsp;**Nothing&nbsp;to&nbsp;install** | Extract the zip and run it. No installer, no account, no background service. |
-| 📖&nbsp;**Nothing&nbsp;hidden** | Readable PowerShell source with no network calls, sandbox tests, and a local log of every deletion. |
+<table>
+<tr><td nowrap>👀&nbsp;<strong>Preview&nbsp;first</strong></td><td>Analyze shows what each category would remove and how much space it frees. Nothing is deleted until you confirm.</td></tr>
+<tr><td nowrap>🎯&nbsp;<strong>Only&nbsp;known&nbsp;locations</strong></td><td>Cleaner looks inside a fixed list of cache and temporary folders. It never scans your whole drive for things to remove.</td></tr>
+<tr><td nowrap>🔒&nbsp;<strong>Your&nbsp;data&nbsp;stays</strong></td><td>Desktop, Documents, Downloads, Pictures and OneDrive are never touched. Neither are browser passwords, cookies, bookmarks or extensions.</td></tr>
+<tr><td nowrap>🕶️&nbsp;<strong>Privacy&nbsp;on&nbsp;your&nbsp;terms</strong></td><td>Browsing-history cleanup is a separate, opt-in category that is never preselected.</td></tr>
+<tr><td nowrap>📦&nbsp;<strong>Nothing&nbsp;to&nbsp;install</strong></td><td>Extract the zip and run it. No installer, no account, no background service.</td></tr>
+<tr><td nowrap>📖&nbsp;<strong>Nothing&nbsp;hidden</strong></td><td>Readable PowerShell source with no network calls, sandbox tests, and a local log of every deletion.</td></tr>
+</table>
 
 ## Get started in a minute
 
