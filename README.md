@@ -28,12 +28,12 @@ Cleaner shows you every item first — you decide, then it cleans.
 
 | | |
 | --- | --- |
-| 👀 **Preview first** | Analyze shows what each category would remove and how much space it frees. Nothing is deleted until you confirm. |
-| 🎯 **Only known locations** | Cleaner looks inside a fixed list of cache and temporary folders. It never scans your whole drive for things to remove. |
-| 🔒 **Your data stays** | Desktop, Documents, Downloads, Pictures and OneDrive are never touched. Neither are browser passwords, cookies, bookmarks or extensions. |
-| 🕶️ **Privacy on your terms** | Browsing-history cleanup is a separate, opt-in category that is never preselected. |
-| 📦 **Nothing to install** | Extract the zip and run it. No installer, no account, no background service. |
-| 📖 **Nothing hidden** | Readable PowerShell source with no network calls, sandbox tests, and a local log of every deletion. |
+| 👀&nbsp;**Preview&nbsp;first** | Analyze shows what each category would remove and how much space it frees. Nothing is deleted until you confirm. |
+| 🎯&nbsp;**Only&nbsp;known&nbsp;locations** | Cleaner looks inside a fixed list of cache and temporary folders. It never scans your whole drive for things to remove. |
+| 🔒&nbsp;**Your&nbsp;data&nbsp;stays** | Desktop, Documents, Downloads, Pictures and OneDrive are never touched. Neither are browser passwords, cookies, bookmarks or extensions. |
+| 🕶️&nbsp;**Privacy&nbsp;on&nbsp;your&nbsp;terms** | Browsing-history cleanup is a separate, opt-in category that is never preselected. |
+| 📦&nbsp;**Nothing&nbsp;to&nbsp;install** | Extract the zip and run it. No installer, no account, no background service. |
+| 📖&nbsp;**Nothing&nbsp;hidden** | Readable PowerShell source with no network calls, sandbox tests, and a local log of every deletion. |
 
 ## Get started in a minute
 
@@ -62,10 +62,10 @@ Light, dark and system themes are included. Categories shown depend on the appli
 | Group | Categories | Notes |
 | --- | --- | --- |
 | **System** | Temporary files · Error reports and crash dumps · Recycle Bin | Temporary files older than 7 days; reports and dumps older than 30 days |
-| **Web browsers** | Chrome · Edge · Brave · Vivaldi · Opera · Opera GX · Firefox | Cache only. Passwords, cookies and history stay |
-| **Browsing activity** | History for the Chromium browsers above | Opt-in, never preselected. Firefox history is not cleared |
+| **Web&nbsp;browsers** | Chrome · Edge · Brave · Vivaldi · Opera · Opera GX · Firefox | Cache only. Passwords, cookies and history stay |
+| **Browsing&nbsp;activity** | History for the Chromium browsers above | Opt-in, never preselected. Firefox history is not cleared |
 | **Apps** | Discord · Slack · Visual Studio Code · Cursor | Cached web content. Settings, extensions and sign-in are kept |
-| **Explorer privacy** | Recent files list · Recent folders · Jump Lists | Pins are checked; a safety copy of the list is saved locally |
+| **Explorer&nbsp;privacy** | Recent files list · Recent folders · Jump Lists | Pins are checked; a safety copy of the list is saved locally |
 | **Developer** | pip · npm · NuGet HTTP cache | Downloads older than 30 days |
 | **Graphics** | DirectX and GPU driver shader caches | Older than 30 days |
 | **Administrator** | Windows temporary files · System error reports and dumps | Requires administrator rights |
